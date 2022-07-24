@@ -12,3 +12,6 @@ Merge Master is a merging and hyper-casual game. The aim of the game is to get t
 
 ![alt text](https://github.com/yusufbilge13/MergeMaster/blob/main/Ball.png)________________
 ![alt text](https://github.com/yusufbilge13/MergeMaster/blob/main/Billard.png)
+
+# You can watch the gameplay from the link below.
+# https://www.youtube.com/watch?v=z3VX8dorGpc&ab_channel=YusufBilge%C3%96zpolat
